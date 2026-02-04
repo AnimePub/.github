@@ -22,13 +22,15 @@
 ## 🎉 Features That Rock
 
 - **Create Accounts:** Join the AniPubverse and customize your anime journey.
+- **AniPub AI.Zero Two:** Talk with Zero Two .. Your smart Assistant !
+- 
 - **Stream Anime:** Lightning-fast streaming with crystal-clear quality.
-- **Save & Download:** Bookmark your faves or download for offline binges.
+- **Save & Download:** Bookmark your faves or download(upcoming) for offline binges.
 - **Epic Playlists:** Curate and share your ultimate anime playlists.
-- **Community Vibes:** Rate and connect with fellow anime legends (commenting coming soon!).
+- **Community Vibes:** Rate and connect with fellow anime legends
 - **Sleek UI:** Powered by EJS, custom CSS, and JavaScript for a futuristic feel.
-- **Fortress-Level Security:** JWT authentication, hashed passwords, and session controls (OAuth coming soon!).
-- **Cloud Hosted:** Always online, always fast, powered by Render.com.
+- **Fortress-Level Security:** JWT authentication, hashed passwords, and session controls and google OAuth
+- **Cloud Hosted:** Always online, always fast.
 
 ---
 
@@ -114,7 +116,7 @@ Run the script:
 - **Frontend:** EJS (dynamic templates), CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Authentication:** JWT (OAuth integration in progress)
+- **Authentication:** JWT
 - **Security:** Hashed passwords, secure sessions, HTTPS
 
 ---
