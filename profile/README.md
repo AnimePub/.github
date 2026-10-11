@@ -5,7 +5,7 @@
 <h1 align="center">AniPub — The Ultimate Anime Multiverse</h1>
 
 <p align="center">
-  <a href="https://anipub.xyz"><img src="https://img.shields.io/badge/Live%20Site-anipub.xyz-blueviolet?style=for-the-badge" alt="Live Site"/></a>
+  <a href="https://anipub.org"><img src="https://img.shields.io/badge/Live%20Site-anipub.org-blueviolet?style=for-the-badge" alt="Live Site"/></a>
   <img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge" alt="Status"/>
   <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions"/></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-GNU%20GPLv3-blue?style=for-the-badge" alt="License"/></a>
